@@ -9,6 +9,6 @@ This library doesn't support all of DS3231 features and you may find flaws.
 3) Alarm#1 Set / Clear
 4) Register Read / Write
 
-https://blog.naver.com/eziya76/221486711330<br>
+https://blog.naver.com/eziya76/221491571100<br>
 
 ![ds3231](./ds3231.JPG)<br>
